@@ -11,14 +11,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 🌐 Connect with Me
-[Discord](https://discord.com/users/youruserID) | [YouTube](https://youtube.com/yourchannel) | [Twitter](https://twitter.com/yourprofile) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Gmail](mailto:azis@example.com)
+[Discord](https://discord.com/users/1226523294774071346) | [YouTube](https://youtube.com/yourchannel) | [Twitter](https://twitter.com/yourprofile) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Gmail](mailto:azis@example.com)
 
 ---
 
