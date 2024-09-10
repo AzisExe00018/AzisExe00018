@@ -1,9 +1,10 @@
-# ![Hi, I'm Azis](https://yourgiflink.com) 👋
-<!-- Replace the link above with a GIF or custom image with your name -->
+# Hi, I'm Azis 👋
+
+![Name](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) <!-- Replace this link with any cool GIF -->
 
 ![GitHub Followers](https://img.shields.io/github/followers/AzisExe00018?style=social&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/AzisExe00018?style=social&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=AzisExe00018&color=blueviolet) <!-- Profile views badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=AzisExe00018&color=blueviolet)
 
 ---
 
@@ -14,8 +15,6 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
