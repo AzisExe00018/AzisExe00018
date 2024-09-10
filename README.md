@@ -1,4 +1,4 @@
-#👋 Hi, I'm Azis "azis.exe"
+# 👋 Hi, I'm Azis
 
 ![GitHub Followers](https://img.shields.io/github/followers/AzisExe00018?style=social&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/AzisExe00018?style=social&logo=github)
