@@ -1,34 +1,40 @@
-# Welcome to @AzisExe00018's GitHub Profile! 🚀
+# Hi, I'm Azis "AzisExe00018" Chan 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your profile banner image URL -->
-
-## 👋 About Me
 ![GitHub Followers](https://img.shields.io/github/followers/AzisExe00018?style=social&logo=github) <!-- Replace with your GitHub followers badge -->
 ![GitHub Stars](https://img.shields.io/github/stars/AzisExe00018?style=social&logo=github) <!-- Replace with your GitHub stars badge -->
-![GitHub Repos](https://img.shields.io/github/repos/AzisExe00018?style=flat) <!-- Replace with your GitHub repos badge -->
 
-- **🔭 Interests**: [Software Development](https://example.com) | [Open Source Contributions](https://example.com)
-- **📚 Currently Learning**: [Machine Learning](https://example.com) | [Web Development](https://example.com)
-- **🌐 Visit My Website**: [azis.dev](https://example.com)
-- **✉️ Contact Me**: [Email](mailto:azis@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
-- **🌈 Pronouns**: He/Him
-- **🎲 Fun Fact**: I can solve a Rubik’s Cube in under a minute! 🧩
+---
 
-## 🛠️ Featured Projects
-### [Project 1](link-to-project)
-[![Project 1](https://via.placeholder.com/400x250?text=Project+1)](link-to-project)
-_A brief description of Project 1._
+## 🛠️ Tools and Languages
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![DiscordJS](https://img.shields.io/badge/-DiscordJS-7289DA?style=flat&logo=discord&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### [Project 2](link-to-project)
-[![Project 2](https://via.placeholder.com/400x250?text=Project+2)](link-to-project)
-_A brief description of Project 2._
+---
 
-## 💻 Technologies & Tools
-![Tech Stack](https://via.placeholder.com/800x100?text=Tech+Stack) <!-- Replace with an image of your tech stack -->
+## 🌐 Connect with Me
+[YouTube](https://youtube.com/yourchannel) | [Twitter](https://twitter.com/yourprofile) | [Facebook](https://facebook.com/yourprofile) | [Instagram](https://instagram.com/yourprofile) | [Gmail](mailto:azis@example.com)
 
-## 📊 GitHub Stats
+---
+
+## 📊 Some Cool Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzisExe00018&show_icons=true&hide_title=true&count_private=true&theme=radical) <!-- Replace with your GitHub stats -->
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzisExe00018&layout=compact&theme=radical) <!-- Replace with your top languages stats -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AzisExe00018&theme=gruvbox) <!-- Replace with your contribution graph -->
 ## 📈 Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AzisExe00018&theme=gruvbox) <!-- Replace with your contribution graph -->
 
