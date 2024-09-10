@@ -1,11 +1,14 @@
-# 🌟 Welcome to @AzisExe00018's GitHub! 🌟
+# 🌟 Welcome to @AzisExe00018's GitHub Profile! 🌟
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile) <!-- Ganti dengan URL banner profil Anda -->
+![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your profile banner image URL -->
 
 ## About Me
+![GitHub Followers](https://img.shields.io/github/followers/AzisExe00018?style=social) <!-- Replace with your GitHub followers badge -->
+![GitHub Stars](https://img.shields.io/github/stars/AzisExe00018?style=social) <!-- Replace with your GitHub stars badge -->
+
 - **🔭 Interests**: [Software Development](https://example.com) | [Open Source](https://example.com)
-- **📚 Currently Learning**: [Machine Learning](https://example.com) | [Web Development](https://example.com)
-- **✉️ Contact Me**: [Email](mailto:azis@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- **📚 Learning**: [Machine Learning](https://example.com) | [Web Development](https://example.com)
+- **✉️ Contact**: [Email](mailto:azis@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 - **🌈 Pronouns**: He/Him
 - **🎲 Fun Fact**: I can solve a Rubik’s Cube in under a minute! 🧩
 
@@ -19,17 +22,26 @@ _A brief description of Project 1._
 _A brief description of Project 2._
 
 ## 💻 Technologies & Tools
-![Tech Stack](https://via.placeholder.com/600x100?text=Tech+Stack) <!-- Ganti dengan gambar stack teknologi Anda -->
+![Tech Stack](https://via.placeholder.com/600x100?text=Tech+Stack) <!-- Replace with your tech stack image -->
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzisExe00018&show_icons=true&hide_title=true&count_private=true&theme=dark) <!-- Ganti dengan statistik GitHub Anda -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzisExe00018&show_icons=true&hide_title=true&count_private=true&theme=dark) <!-- Replace with your GitHub stats -->
 
 ## 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AzisExe00018&theme=github) <!-- Ganti dengan grafik kontribusi Anda -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AzisExe00018&theme=github) <!-- Replace with your contribution graph -->
+
+## 🎨 Featured Projects
+### [Exciting Project](https://example.com)
+![Exciting Project](https://via.placeholder.com/400x250?text=Exciting+Project)  
+_A brief description of a project you're excited about._
+
+### [Upcoming Feature](https://example.com)
+![Upcoming Feature](https://via.placeholder.com/400x250?text=Upcoming+Feature)  
+_A sneak peek into an upcoming feature or project._
 
 ## 🧩 Fun Stuff
-- **💡 Did you know?** I’m also into [Gaming](https://example.com) and [Music](https://example.com)!
-- **🚀 Projects I’m Excited About**: [Exciting Project](https://example.com) | [Upcoming Feature](https://example.com)
+- **💡 Did you know?** I also enjoy [Gaming](https://example.com) and [Music](https://example.com)!
+- **🔗 Explore More**: Check out my [Blog](https://example.com) and [Portfolio](https://example.com) for more insights!
 
 ---
 
