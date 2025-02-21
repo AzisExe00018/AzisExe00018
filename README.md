@@ -18,11 +18,6 @@
 
 ---
 
-## 🌐 Connect with Me
-[Discord](https://discord.com/users/youruserID) | [YouTube](https://youtube.com/yourchannel) | [Twitter](https://twitter.com/yourprofile) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Gmail](mailto:azis@example.com)
-
----
-
 ## 📊 Some Cool Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzisExe00018&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzisExe00018&layout=compact&theme=github_dark)
